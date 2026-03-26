@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Detalhes em Prata
+authors:
+  - family-names: Carlos Goulart Dos Reis
+    given-names: Josué
+  - family-names: Dantas Leal
+    given-names: Kelvyn
+  - family-names: Batista Moreira
+    given-names: Luiz Fernando
+  - family-names: Gomes do Nascimento
+    given-names: Miguel
+  - family-names: Kiffer de Oliveira Soares
+    given-names: Nícolas
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Amaral Baroni de Carvalho
+    given-names: Juliana
+keywords:
+  - loja virtual
+  - joias
+  - ecommerce
+  - gestão de vendas
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9545100-detalhesprata-loja-de-joias.git
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-12-22
