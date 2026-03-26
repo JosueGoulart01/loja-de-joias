@@ -4,18 +4,6 @@ O projeto consiste na criação de um site de vendas automatizado para a loja "D
 
 A solução permitirá que os produtos sejam exibidos em um catálogo online completo, com fotos, descrições detalhadas e informações de estoque. Os clientes poderão navegar por categorias, adicionar produtos ao carrinho e finalizar a compra diretamente pelo site, com diversos métodos de pagamento. Para a proprietária, o sistema oferecerá um painel administrativo para gerenciar produtos, estoque e visualizar relatórios, substituindo o controle manual e fortalecendo a imagem da marca.
 
-## Alunos integrantes da equipe
-
-* Josue Carlos Goulart Dos Reis
-* Kelvyn Dantas Leal
-* Luiz Fernando Batista Moreira
-* Miguel Gomes do Nascimento
-* Nicolas Kiffer de Oliveira Soares
-
-## Professores responsáveis
-
-* Eveline Alonso Veloso
-* Juliana Amaral Baroni de Carvalho
 
 ## Instruções de utilização
 
